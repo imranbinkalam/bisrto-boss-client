@@ -1,0 +1,8 @@
+.featured-item {
+  background-image: url("../../../assets/home/featured.jpg");
+  background-size: cover;
+  padding: 30px;
+  background-blend-mode: color-burn;
+  background-repeat: no-repeat;
+  background-color: rgba(30, 10, 0, 0.5);
+}
